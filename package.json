@@ -1,0 +1,25 @@
+{
+  "name": "aragon-app-counterfactual",
+  "version": "0.1.0",
+  "description": "creates acounterfactual ap address",
+  "license": "MIT",
+  "repository": "",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "author": {
+    "name": "aaron",
+    "email": "aaron@DAOresear.ch",
+    "url": "https://github.com/pythonpete32"
+  },
+  "keywords": [
+    "Aragon",
+    "DAO",
+    "Ethereum",
+    "Token",
+    "Cryptocurrency"
+  ],
+  "dependencies": {
+    "ethers": "^4.0.47",
+    "web3-utils": "^1.2.7"
+  }
+}
